@@ -1,6 +1,6 @@
 # Process this file with autoconf to produce a configure script.
 
-AC_PREREQ([2.69])
+AC_PREREQ([2.68])
 AC_INIT([gromit-mpx],[1.0],[Christian Beier <dontmind@freeshell.org>],[gromit-mpx],[https://github.com/bk138/gromit-mpx])
 AM_INIT_AUTOMAKE([foreign])
 AC_CONFIG_SRCDIR([src/gromit-mpx.c])
